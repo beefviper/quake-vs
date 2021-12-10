@@ -1,3 +1,12 @@
+Forked from https://github.com/id-Software/Quake (full readme.txt included below)
+
+***
+Modern solution and project files generated
+Generated solution and project files made to work
+Two variable names changed to avoid reserved C++ keywords
+Minimal code changes, compiles with warnings, but does run
+***
+
 
 This is the complete source code for winquake, glquake, quakeworld, and 
 glquakeworld.
